@@ -1,2 +1,20 @@
 # Different-Techniques-for-Sentence-Semantic-Similarity-in-NLP
-In this implementation, we explore various techniques for text embedding, including Bag of Words (BoW), Term Frequency-Inverse Document Frequency (TF-IDF), Word2Vec, CBOW, Skip-Gram, GloVe, FastText, BERT, Doc2Vec, Universal Sentence Encoder, Sentence-BERT, and InferSent.
+Here, various techniques for text embedding are provided to address the problem of predicting the topic of a set of abstracts from two different branches, "Machine Learning in Statistics" and "Applied Statistics," along with their corresponding category labels. Your task is to train a simple classifier that can predict the topic of an article based on its abstract input.
+
+This question is from the following competition: [quera Pages]([https://pages.github.com/](https://quera.org/contest/assignments/64356/problems/219300.)https://quera.org/contest/assignments/64356/problems/219300.).
+
+- [Load Data](#load-data)
+- [Preprocess Data](#preprocess-data)
+- [Text to Features](#Text-to-Features)
+- [Text vectorization](#text-vectorization)
+- [Ensemble Models](#Ensemble-Models)
+
+## Load Data
+
+## Preprocess Data
+
+## Text to Features
+
+## Text vectorization
+
+## Ensemble Models
