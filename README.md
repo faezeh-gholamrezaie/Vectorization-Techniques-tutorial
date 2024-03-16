@@ -48,7 +48,10 @@ Audience.
 
 # Resources:
 
-Stanford AI Lab - CS224n: Natural Language Processing with Deep Neural Networks: [](https://nlp.stanford.edu/)
-Deep Learning for NLP book: [](https://www.manning.com/books/deep-learning-for-natural-language-processing)
-PyTorch documentation: [](https://pytorch.org/docs/)
-TensorFlow documentation: [](https://www.tensorflow.org/api_docs)
+Stanford AI Lab - CS224n: Natural Language Processing with Deep Neural Networks: https://nlp.stanford.edu/
+
+Deep Learning for NLP book: https://www.manning.com/books/deep-learning-for-natural-language-processing
+
+PyTorch documentation: https://pytorch.org/docs/
+
+TensorFlow documentation: https://www.tensorflow.org/api_docs
