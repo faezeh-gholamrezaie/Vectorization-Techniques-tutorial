@@ -44,28 +44,28 @@ A simple classifier has been trained to predict the topic of a paper given its a
 
 ## Preprocess Data
 
-1. Removing extra white space from text:
+- Removing extra white space from text:
 
 All extra white space (more than one space) was removed from the text.
-2. Removing all special characters from the text:
+-  Removing all special characters from the text:
 
 All special characters such as periods, commas, question marks, exclamation points, parentheses, etc. were removed from the text.
-3. Removing all single characters from the text:
+- Removing all single characters from the text:
 
 All single characters such as "a", "b", "c", etc. were removed from the text.
-4. Converting text to lower case:
+- Converting text to lower case:
 
 All letters in the text were converted to lower case.
-5. Word tokenization:
+- Word tokenization:
 
 The text was split into separate word tokens.
-6. Lemmatization:
+- Lemmatization:
 
 All words were converted to their root form.
-7. Removing stop words from the text:
+- Removing stop words from the text:
 
 Stop words such as "the", "is", "of", etc. were removed from the text.
-8. Removing words with a length less than 3 from the text:
+- Removing words with a length less than 3 from the text:
 
 All words with a length less than 3 characters were removed from the text.
 The purpose of performing these preprocessing steps is to improve the performance of the classification model by removing noise and unnecessary information from the text.
