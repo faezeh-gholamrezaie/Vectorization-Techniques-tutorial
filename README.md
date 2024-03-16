@@ -6,13 +6,6 @@ This repository provides a tutorial for those interested in learning about vecto
 This code provides a solution to the "Which Statistic?" question in the LLM Hackathon Qualifier. 
 : [quera Pages](https://quera.org/problemset/220643)
 
-# Content:
-
-Tutorials on various common vectorization methods in NLP
-Implementations of different NLP models using PyTorch and TensorFlow
-Exercises and examples for better understanding of the concepts
-Audience.
-
 # NLP students and researchers
 Software engineers interested in learning about vectorization methods in NLP
 Anyone interested in deep learning and natural language processing
@@ -30,7 +23,12 @@ Open a Jupyter Notebook in the root directory of the repository.
 
 Run the tutorials and examples in sequence.
 
+# Content:
 
+Tutorials on various common vectorization methods in NLP
+Implementations of different NLP models using PyTorch and TensorFlow
+Exercises and examples for better understanding of the concepts
+Audience.
 
 - [Load Data](#load-data)
 - [Preprocess Data](#preprocess-data)
