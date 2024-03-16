@@ -92,7 +92,7 @@ In machine learning, features are carefully selected or created from raw data to
 Text data is inherently different from numerical data that machine learning algorithms typically operate on. Text vectorization techniques aim to bridge this gap by transforming textual data into numerical vectors. These vectors represent the characteristics of the text in a way that can be understood and processed by machine learning models.
 
 There are various techniques for text vectorization, each with its own advantages and limitations. The table below compares the methods used in this project:
-
+[](https://github.com/faezeh-gholamrezaie/Vectorization-Techniques-in-NLP/blob/main/various%20techniques%20for%20text%20vectorization.png)
 
 ## Ensemble Models
 
