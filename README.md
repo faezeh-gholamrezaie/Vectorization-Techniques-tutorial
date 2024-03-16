@@ -11,7 +11,7 @@ This code provides a solution to the "Which Statistic?" question in the LLM Hack
 Tutorials on various common vectorization methods in NLP
 Implementations of different NLP models using PyTorch and TensorFlow
 Exercises and examples for better understanding of the concepts
-Audience:
+Audience.
 
 # NLP students and researchers
 Software engineers interested in learning about vectorization methods in NLP
@@ -20,10 +20,14 @@ Getting Started:
 
 # To get started, follow these steps:
 
-Clone the repository with the command git clone https://github.com/Your-Username/Vectorization-Techniques-tutorial.git.
+Clone the repository with the command git clone https://github.com/faezeh-gholamrezaie/Vectorization-Techniques-in-NLP.git
+
 Activate your Python virtual environment.
+
 Install the requirements with the command pip install -r requirements.txt.
+
 Open a Jupyter Notebook in the root directory of the repository.
+
 Run the tutorials and examples in sequence.
 
 
